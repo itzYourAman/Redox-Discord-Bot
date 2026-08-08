@@ -1,0 +1,1956 @@
+{
+    "guilds": {
+        "1158408289873301514": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [
+                "926831289649201213"
+            ],
+            "commands": []
+        },
+        "1092749835247030363": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [
+                "1085203331632341113",
+                "926831289649201213",
+                "1136480246636482661"
+            ],
+            "commands": []
+        },
+        "1059870412500107485": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1163102417366290503": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1157880971006312498": {
+            "channel": [
+                "1157888989286637679",
+                "1157888555926945832",
+                "1218183282231873639"
+            ],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [
+                "926831289649201213"
+            ],
+            "commands": []
+        },
+        "1148979589310328882": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1113075344568754197": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1168908072480157907": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1138812160533856257": {
+            "channel": [
+                "1193452711170023425"
+            ],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1132585033773883453": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1167362434672119808": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1164882449701032037": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1171803008221335624": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1071807677145030857": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1168866484328599643": {
+            "channel": [
+                "1168871452901130290"
+            ],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1154800254462468118": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1174360039486660778": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1148545385736966147": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1111924490507669514": {
+            "channel": [
+                "1116553431923044442"
+            ],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1162351710681956392": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1124568373364273163": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1125046317870227537": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1138517713736699934": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1153159223950180422": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1162588124086546527": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1176138557669261333": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1171663874773241866": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1044934824001019905": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1087321654851534959": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1175348467544109146": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1143834278015283250": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1079329654197981204": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1172038033109950554": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1176545169747759184": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "843855196262367262": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1162364527548055703": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1024231209926144000": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1178702391332319313": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1127636397377994943": {
+            "channel": [
+                "1136255107240034305"
+            ],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [
+                "997094719500861543"
+            ],
+            "commands": []
+        },
+        "1092764717933678622": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1103955836633632798": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1143474407696760886": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "910890361264672818": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1179977813894381568": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1157604116885930067": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1052044209454067712": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1165695482794872953": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1051560070183391285": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1174350085627334686": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1175108486091264150": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1070272268615290900": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1162345187813629962": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1166351943434780755": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1105199688287801435": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1182307901692461056": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1177577097942814730": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1106983544410079292": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1075834203310149683": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1151847901300006922": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1083690332027363338": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1163309737979424868": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1186682697242918994": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1178728747126497420": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1178054201574686761": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1177891970467774464": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1194558412843925534": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1151053003684581446": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1192308783158939698": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1139934097507102722": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1149016977139052625": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1155504356393767046": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1125240339955974177": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1185612129001287892": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1196102376067698789": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1138081215560302622": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1080557560467296417": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1162741812784537610": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1113075320376016946": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1182950641354686474": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1112725767680442392": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1189232736234389554": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1139659684001890354": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1049603494803415070": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1042776383803375667": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1197237135204438136": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1136344175147765971": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1122553244518977657": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1139566409534423091": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1045644786981417021": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1140633229204934697": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1084904458653278319": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1120219231271796746": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1146431321544069190": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1034808374975537203": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1149581849396514836": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1154700827848626216": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1114869601172475937": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1198726795399274526": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1185256939471515699": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1161576149055451156": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1199799457059971245": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "968438225834237993": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1199682899876786216": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1200445209914384548": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1096122328863219802": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1185135620625010688": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1200642505281118289": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1200872887456903258": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1141773534448853062": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1202617100615815188": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1200454134067904613": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1134256055174566042": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1203307881890451476": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1195313653000441906": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1083756925885358182": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1203726164972277770": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1119264520779608086": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1197073437634592889": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1158665068720947321": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1137624387047133285": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1190973441327763466": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1138818346134024254": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1200043133799497789": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1155342397069344828": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1155482177933410345": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1117058749673263215": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1202630404188803073": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1205781346941800458": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1178652723420352532": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1199775388063236186": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1191910254062084136": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1209887049570586654": {
+            "channel": [
+                "1209894154243416114",
+                "1212734724016054312",
+                "1215890691138387998"
+            ],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1154800059175686225": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1127115529660944436": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1213097023830622258": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1098836612198178887": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1208711268375076874": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1215299399018614784": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1214636190364467270": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1215932150382067762": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1215703401967648778": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1181996312338628688": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1212701214198861835": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1202301962796929114": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1216340127488413736": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1189780529432756234": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1190588621456150638": {
+            "channel": [
+                "1217035658766454796"
+            ],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [
+                "926831289649201213"
+            ],
+            "commands": []
+        },
+        "1216220565199917137": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1217654462815014972": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1213450503174881291": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1222083230321082419": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1018786418065158154": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1233061227262115990": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1224676100161011734": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1218414000405090404": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1217987734350725150": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1214079284969218089": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1183723670103916574": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1204985882210476102": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1097078597820362792": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1082870395042013285": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1224754432747765801": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1092441963208396800": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1222382011662991530": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1222947836262617159": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1230888623264497664": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1222847334031818804": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1235851654776225844": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1234420264842825728": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1236504063902748709": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1234396388763369544": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1201881560421240943": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1213031994728906764": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1201056648727384124": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1180595466270933072": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1237390122035576873": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1188796562093129728": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1226405908477775872": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1141310788896833618": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1238428864149983286": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1220954370720403456": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1220798250039382107": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1235168871061782598": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1234470154155589703": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1212257716190322778": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1214159614916960296": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1172416240128630805": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1239229701583671337": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1226467339055403048": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1242747853319966720": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1230188338799972494": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1243455706334629930": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1239483491507245056": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1243948133080105142": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1137109062706806874": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1228291087907557437": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1216729748961759374": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1152629510982873150": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1240698073089441792": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1246745345388707882": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1206117905721204737": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1098268290276671549": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1208334757042192454": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1250005199880192010": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1249007965583966354": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1226815185835266080": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1243071189769785358": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1240462745019617373": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1213802971633029161": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1254274660627906621": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "333949691962195969": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1240351902835933335": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1181603929650368573": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1245663850632843264": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1254468981662679193": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1255673457883217942": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1201078733759598614": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1253891324890054656": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1211038750201610280": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1256250880856953054": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1251469558175498361": {
+            "channel": [
+                "1251801043377979443"
+            ],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1256862126006472765": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1254862389367672924": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1256931172949164073": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1131844898430124052": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1252221032245362727": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "955116926630248449": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1254312177519824946": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1254674100136185856": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1257383294106865674": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1257728749340987522": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "951857762177015840": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1231798324026282125": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1259795439918645350": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1061154310118985768": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1239622750503571558": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1260564730058113035": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1261303555709734922": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1148113389252522074": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        },
+        "1331904932500082738": {
+            "channel": [],
+            "role": null,
+            "user": [],
+            "bypassrole": null,
+            "bypassuser": [],
+            "commands": []
+        }
+    }
+}

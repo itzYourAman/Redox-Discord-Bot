@@ -1,0 +1,1061 @@
+{
+    "guilds": {
+        "1138812160533856257": {
+            "boost": {
+                "autodel": 0,
+                "channel": [
+                    "1148932847147679765"
+                ],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1151096223198093424": {
+            "boost": {
+                "autodel": 0,
+                "channel": [
+                    "1151099479949324298"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1154700827848626216": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> BoostMessage To <<boost.server_name>>",
+                "ping": true,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": [
+                    "1154703632705536012"
+                ]
+            }
+        },
+        "1140228374246215710": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1084904458653278319": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1162345187813629962": {
+            "boost": {
+                "autodel": 0,
+                "channel": [
+                    "1165112485792206869"
+                ],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1157749985736146998": {
+            "boost": {
+                "autodel": 0,
+                "channel": [
+                    "1163162903558508665"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1092749835247030363": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> BoostMessage To <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1045644786981417021": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1167362434672119808": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1167832162565890078": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1168866484328599643": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1171663874773241866": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": [
+                    "1177631358978375703"
+                ]
+            }
+        },
+        "1141339221181874237": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1127636397377994943": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1182307901692461056": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1143834278015283250": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1163309737979424868": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1178728747126497420": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1162588124086546527": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1024231209926144000": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1178054201574686761": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1177891970467774464": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1194558412843925534": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1196102376067698789": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1114869601172475937": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1185256939471515699": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1198726795399274526": {
+            "boost": {
+                "autodel": 0,
+                "channel": [
+                    "1200126791076024400"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "Lvl 2 \n🥤 .Dark Way | Chill & Date & Event & Gvw <",
+                "ping": true,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": [
+                    "1200126533805801492"
+                ]
+            }
+        },
+        "1202617100615815188": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1195313653000441906": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1203307881890451476": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1182950641354686474": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1200872887456903258": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1052044209454067712": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1205781346941800458": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1209887049570586654": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1197073437634592889": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1212701214198861835": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1034808374975537203": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1190588621456150638": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1162364527548055703": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1222382011662991530": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1092441963208396800": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1213450503174881291": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1222083230321082419": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1234470154155589703": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1222947836262617159": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1204985882210476102": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1235168871061782598": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1243455706334629930": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1239229701583671337": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1206117905721204737": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1140633229204934697": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1098268290276671549": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1201078733759598614": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1252221032245362727": {
+            "boost": {
+                "autodel": 0,
+                "channel": [
+                    "1258063080554762250"
+                ],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1254862389367672924": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1251469558175498361": {
+            "boost": {
+                "autodel": 0,
+                "channel": [
+                    "1259843520789741600"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1254468981662679193": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1254674100136185856": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1231798324026282125": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        }
+    }
+}

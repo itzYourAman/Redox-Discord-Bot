@@ -1,0 +1,88 @@
+{
+    "users": {
+        "1247876406390820905": {
+            "owner": false,
+            "developer": false,
+            "staff": false,
+            "early": false,
+            "partner": false,
+            "vip": false,
+            "friends": false,
+            "bug": false,
+            "sponsors": false,
+            "family": true
+        },
+        "926831289649201213": {
+            "owner": true,
+            "developer": true,
+            "staff": true,
+            "early": true,
+            "partner": true,
+            "vip": true,
+            "friends": true,
+            "bug": true,
+            "sponsors": true,
+            "family": true
+        },
+        "1127813715069247498": {
+            "owner": false,
+            "developer": false,
+            "staff": false,
+            "early": false,
+            "partner": false,
+            "vip": false,
+            "friends": true,
+            "bug": false,
+            "sponsors": false,
+            "family": true
+        },
+        "1085203331632341113": {
+            "owner": false,
+            "developer": false,
+            "staff": false,
+            "early": false,
+            "partner": false,
+            "vip": false,
+            "friends": false,
+            "bug": false,
+            "sponsors": false,
+            "family": true
+        },
+        "1222383947674161155": {
+            "owner": false,
+            "developer": false,
+            "staff": false,
+            "early": false,
+            "partner": false,
+            "vip": false,
+            "friends": false,
+            "bug": false,
+            "sponsors": false,
+            "family": true
+        },
+        "1078941420318097468": {
+            "owner": false,
+            "developer": false,
+            "staff": false,
+            "early": false,
+            "partner": false,
+            "vip": false,
+            "friends": false,
+            "bug": false,
+            "sponsors": false,
+            "family": true
+        },
+        "1188712861510422549": {
+            "owner": false,
+            "developer": false,
+            "staff": false,
+            "early": false,
+            "partner": false,
+            "vip": false,
+            "friends": false,
+            "bug": false,
+            "sponsors": false,
+            "family": true
+        }
+    }
+}
